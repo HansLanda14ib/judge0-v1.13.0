@@ -4,10 +4,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    ![image](https://github.com/HansLanda14ib/judge0-v1.13.1/assets/100965812/5809e207-653c-4716-bd22-f9bb31b54f53)
   </a>
 
-  <h3 align="center">Judge0 CE</h3>
+  <h2 align="center">Judge0 CE</h2>
 
   <p align="center">
     Votre Environnement d'Exécution de Code en Ligne!
@@ -17,9 +17,7 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+
   </p>
 </div>
 
@@ -55,9 +53,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![image](https://github.com/HansLanda14ib/judge0-v1.13.1/assets/100965812/5809e207-653c-4716-bd22-f9bb31b54f53)
-
 
 Un environnement d'exécution de code en ligne sécurisé et polyvalent.
 
@@ -121,7 +116,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 Badreddine Ibzazne - [@hanslanda14ib](https://twitter.com/hanslanda14ib) - bibzazne@gmail.com
 
-Project Link: [https://github.com/HansLanda14ib/judge0-v1.13.1](https://github.com/HansLanda14ib/judge0-v1.13.1))
+Project Link: [https://github.com/HansLanda14ib/judge0-v1.13.1](https://github.com/HansLanda14ib/judge0-v1.13.1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +125,7 @@ Project Link: [https://github.com/HansLanda14ib/judge0-v1.13.1](https://github.c
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Judge0 project]([https://choosealicense.com](https://judge0.com/#clients))
+* [Judge0 project](https://judge0.com/#clients)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
