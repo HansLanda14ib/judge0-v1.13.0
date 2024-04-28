@@ -56,7 +56,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://github.com/HansLanda14ib/judge0-v1.13.1/assets/100965812/5809e207-653c-4716-bd22-f9bb31b54f53)
+
 
 Un environnement d'exécution de code en ligne sécurisé et polyvalent.
 
@@ -78,7 +79,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Judge0 has only been tested on Linux and might not work on other systems; thus, no support for it.
 
-* Docker and Docker compose
+* Docker and Docker compose [Link](https://docs.docker.com/compose/install/)
  
 
 ### Installation
@@ -114,22 +115,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
 Badreddine Ibzazne - [@hanslanda14ib](https://twitter.com/hanslanda14ib) - bibzazne@gmail.com
 
-Project Link: [https://github.com/HansLanda14ib/judge0-v1.13.1]([https://github.com/your_username/repo_name](https://github.com/HansLanda14ib/judge0-v1.13.1))
+Project Link: [https://github.com/HansLanda14ib/judge0-v1.13.1](https://github.com/HansLanda14ib/judge0-v1.13.1))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
