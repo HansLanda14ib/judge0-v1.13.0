@@ -33,11 +33,11 @@ Judge0 has only been tested on Linux and might not work on other systems; thus, 
 
 1. Download and extract the release archive:
    ```sh
-    git clone https://github.com/HansLanda14ib/judge0-v1.13.1.git
+    git clone https://github.com/HansLanda14ib/judge0-v1.13.0.git
     ```
 2. Set the variable REDIS_PASSWORD POSTGRES_PASSWORD in the judge0.conf file.
 
-3. cd judge0-v1.13.1 and run :
+3. cd judge0-v1.13.0 and run :
    ```sh
     docker-compose up -d db redis
     sleep 10s
@@ -45,7 +45,7 @@ Judge0 has only been tested on Linux and might not work on other systems; thus, 
     sleep 5s
     ```
 
-Your instance of Judge0 CE v1.13.1 is now up and running; visit docs at http://<IP ADDRESS OF YOUR SERVER>:2358/docs.
+Your instance of Judge0 CE v1.13.0 is now up and running; visit docs at http://<IP ADDRESS OF YOUR SERVER>:2358/docs.
 
 
 
